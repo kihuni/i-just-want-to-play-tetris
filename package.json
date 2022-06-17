@@ -1,0 +1,19 @@
+{
+  "name": "i-just-want-to-play-tetris",
+  "version": "1.0.0",
+  "description": "![tetris](assets/header.png) # I Just Want to Play Tetris",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kihuni/i-just-want-to-play-tetris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kihuni/i-just-want-to-play-tetris/issues"
+  },
+  "homepage": "https://github.com/kihuni/i-just-want-to-play-tetris#readme"
+}
